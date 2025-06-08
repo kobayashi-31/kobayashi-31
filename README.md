@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **kobayashi-31/kobayashi-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
